@@ -1,0 +1,147 @@
+ body{
+	background-color:white;
+}
+
+h1{
+	font-family: 'Comfortaa', cursive;
+	color: white;
+	size: 30px;
+	padding: 10px 60px 10px 40px;
+	font-size: +3;
+	text-align: center;
+}
+
+h2{
+	font-family: 'Comfortaa', cursive;
+	color: white;
+	size: 20px
+	padding:50px 100px 20px 40px;
+	text-align: center;
+}
+
+h3{
+	font-family: 'Comfortaa', cursive;
+	color: #895959;
+	size: 15px
+	padding:50px 100px 20px 40px;
+	text-align: center;
+}
+
+p{
+	font-family: 'Comfortaa', cursive;
+	color: white;
+	size: 20px;
+	text-align: center;
+	line-height: 10px;
+}
+
+#conteneur {
+	display: block;
+		height: 85px;
+		width: 1000px;
+		background-color: #66858D;
+		border-radius: 5px;
+		position: absolute;
+		right: 100px;
+		left: 165px;
+		top:15px;
+}
+
+#entête {
+	display: block;
+		background-color: #93A299;
+		height: 140px;
+		width: 1000px;
+		border-radius: 5px;
+		position: absolute;
+		right: 100px;
+		left: 165px;
+		top: 120px;
+	}
+
+#menu {
+	display: block;
+		background-color: #B78178;
+		height: 200px;
+		width: 500px;
+		border-radius: 5px;
+		position: absolute;
+		right: 200px;
+		left: 415px;
+		top: 285px;
+
+}
+
+#contenu {
+	display: block;
+		height: 200px;
+		width: 500px;
+		background-color: #B78178;
+		border-radius: 5px;
+		position: absolute;
+		right: 200px;
+		left: 415px;
+		top: 520px;
+
+}
+
+#image1 {
+	display: block;
+		height : 200px;
+		width: 100px;
+		position: absolute;
+		right: 200px;
+		left: 65px;
+		top: 285px ;
+}
+
+#image2 {
+	display: block;
+		height : 200px;
+		width: 100px;
+		position: absolute;
+		right: 200px;
+		left: 65px;
+		top: 520px ;
+
+}
+
+#image3{
+	display: block;
+		height : 200px;
+		width: 100px;
+		position: absolute;
+		right: 500px;
+		left: 965px;
+		top: 520px ;
+
+}
+#image4{
+	display: block;
+		height : 200px;
+		width: 100px;
+		position: absolute;
+		right: 500px;
+		left: 965px;
+		top: 285px ;
+
+}
+.bouton {
+	height: 55px;
+	width: 70px;
+	font-family: 'Comfortaa', cursive;
+	color: #BF8273;
+	position: absolute;
+	top: 175px;
+	left: 10px;
+}
+
+a{
+	font-family: 'Comfortaa', cursive; 
+	text-shadow: 0 0 20px black;
+	position: absolute;
+	top:160px;
+	color: white;
+	left: 240px;
+
+}
